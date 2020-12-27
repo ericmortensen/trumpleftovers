@@ -1,2 +1,0 @@
-# trumpleftovers
-Trump Leftovers

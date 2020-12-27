@@ -2,9 +2,6 @@
 title: Trump Leftovers
 timezone: UTC
 collections:
-  popsts:
-    title: Popsts
-    output: true
   posts:
     title: Posts
     output: true

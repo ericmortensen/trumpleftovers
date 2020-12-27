@@ -1,6 +1,7 @@
 ---
+position: 0
 short_name: paulmanafort
 name: Paul Manafort
-position: Former Campaign Manager, Trump 2016
 ---
+
 Paul Manafort is a pardoned criminal. 
